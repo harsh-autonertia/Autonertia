@@ -1,4 +1,4 @@
-// #include "tle_device.h"
+#include "tle_device.h"
 #include "Types.h"
 
 /* externs defined in linker script */
